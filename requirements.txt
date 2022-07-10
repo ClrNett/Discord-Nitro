@@ -1,3 +1,4 @@
-1 requests
-2 colorama
-3 threading
+requests
+colorama
+threading
+
